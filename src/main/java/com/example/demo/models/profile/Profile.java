@@ -1,6 +1,5 @@
 package com.example.demo.models.profile;
 
-
 import com.example.demo.models.auth.User;
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import jakarta.persistence.*;
